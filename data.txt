@@ -1,0 +1,2 @@
+{"firstname":"Mehrab Hassan","lastname":"Pretum","dob":"2021-06-22","presentadd":"Shariatpur","permanetadd":"Shariatpur","phonenum":"01860633886","username":"zrpretum@gmail.com","password":"12345"}
+{"firstname":"Pretum","lastname":"Mehrab","dob":"2021-06-04","presentadd":"Shariatpur","permanetadd":"ffff","phonenum":"0178624344","username":"Pretum@gmail.com","password":"1234"}
